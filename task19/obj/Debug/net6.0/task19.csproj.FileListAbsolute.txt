@@ -1,0 +1,15 @@
+C:\ДЗ.ГБ\Homework_3seminar\task19\bin\Debug\net6.0\task19.exe
+C:\ДЗ.ГБ\Homework_3seminar\task19\bin\Debug\net6.0\task19.deps.json
+C:\ДЗ.ГБ\Homework_3seminar\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+C:\ДЗ.ГБ\Homework_3seminar\task19\bin\Debug\net6.0\task19.dll
+C:\ДЗ.ГБ\Homework_3seminar\task19\bin\Debug\net6.0\task19.pdb
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.dll
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\refint\task19.dll
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.pdb
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+C:\ДЗ.ГБ\Homework_3seminar\task19\obj\Debug\net6.0\ref\task19.dll
